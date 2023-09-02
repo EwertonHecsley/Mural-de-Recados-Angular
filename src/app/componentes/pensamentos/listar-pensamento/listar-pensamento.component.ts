@@ -7,4 +7,17 @@ import { Component } from '@angular/core';
 })
 export class ListarPensamentoComponent {
 
+  listaPensamentos = [
+    {
+      conteudo: 'Aprendendo a desenvolver em Angular',
+      autoria: 'Ewerton',
+      modelo: 'modelo3'
+    },
+    {
+      conteudo: 'Aprendendo a desenvolver em Angular',
+      autoria: 'Ewerton',
+      modelo: 'modelo3'
+    }
+  ];
+
 }
