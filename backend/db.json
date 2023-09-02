@@ -1,0 +1,22 @@
+{
+    "pensamentos": [
+        {
+            "id": 1,
+            "conteudo": "Que bom que voce veio",
+            "autoria": "Zé da manga",
+            "modelo": "modelo1"
+        },
+        {
+            "id": 2,
+            "conteudo": "As pessoas boas, devem amar seus inimigos",
+            "autoria": "Seu Barriga",
+            "modelo": "modelo2"
+        },
+        {
+            "id": 3,
+            "conteudo": "Independência ou morte",
+            "autoria": "Dom Pedro II",
+            "modelo": "modelo3"
+        }
+    ]
+}
