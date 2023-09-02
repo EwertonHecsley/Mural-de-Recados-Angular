@@ -24,8 +24,4 @@ export class CriarPensamentoComponent implements OnInit {
     alert('Acorda menino')
   }
 
-  cancelar() {
-    alert('cancelei')
-  }
-
 }
