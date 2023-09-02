@@ -9,8 +9,8 @@ export class CriarPensamentoComponent implements OnInit {
 
   pensamento = {
     id: '1',
-    conteudo: 'Aprendendo Angular',
-    autoria: 'Dev',
+    conteudo: 'Exemplo de Pensamento',
+    autoria: 'Exe. Autor',
     modelo: ''
   }
 
