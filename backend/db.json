@@ -1,26 +1,26 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que voce veio",
-      "autoria": "Zé da manga",
-      "modelo": "modelo1"
+      "conteudo": "Desenvolvendo minha primeira aplicação no Angular",
+      "autoria": "Ewerton Hecsley",
+      "modelo": "modelo1",
+      "id": 1
     },
     {
-      "id": 2,
-      "conteudo": "As pessoas boas, devem amar seus inimigos",
-      "autoria": "Seu Barriga",
-      "modelo": "modelo2"
+      "conteudo": "As pessoas boas, devem amar seus inimigos!",
+      "autoria": "Sr. Barriga",
+      "modelo": "modelo3",
+      "id": 3
     },
     {
-      "id": 3,
-      "conteudo": "Independência ou morte",
-      "autoria": "Dom Pedro II",
-      "modelo": "modelo3"
+      "conteudo": "Na jornada da programação, lembre-se de que cada desafio é uma oportunidade de aprendizado. Quando o código não funciona, você está mais próximo de uma solução. Mantenha sua curiosidade acesa, explore novas linguagens e projetos. O progresso pode ser gradual, mas a sensação de ver seu código funcionando é uma recompensa única. Não desista, pois cada erro é um passo em direção ao sucesso. A comunidade de desenvolvedores está aqui para apoiá-lo. Continue programando, pois o mundo digital é o seu playground, cheio de possibilidades infinitas esperando para serem exploradas.",
+      "autoria": "I.A.",
+      "modelo": "modelo2",
+      "id": 5
     },
     {
-      "conteudo": "Não são pedras, são aerolitos",
-      "autoria": "Chapolin Colorado",
+      "conteudo": "Sertanejo é chato pra caralho",
+      "autoria": "Ewerton Hecsley",
       "modelo": "modelo1",
       "id": 6
     }
