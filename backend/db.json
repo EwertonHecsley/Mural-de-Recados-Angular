@@ -19,18 +19,6 @@
       "modelo": "modelo3"
     },
     {
-      "conteudo": "Teste de adicionar pensamento",
-      "autoria": "Dev Angular",
-      "modelo": "modelo1",
-      "id": 4
-    },
-    {
-      "conteudo": "Novo Teste",
-      "autoria": "Eu ",
-      "modelo": "modelo2",
-      "id": 5
-    },
-    {
       "conteudo": "Não são pedras, são aerolitos",
       "autoria": "Chapolin Colorado",
       "modelo": "modelo1",
