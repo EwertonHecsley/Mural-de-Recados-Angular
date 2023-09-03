@@ -1,22 +1,40 @@
 {
-    "pensamentos": [
-        {
-            "id": 1,
-            "conteudo": "Que bom que voce veio",
-            "autoria": "Zé da manga",
-            "modelo": "modelo1"
-        },
-        {
-            "id": 2,
-            "conteudo": "As pessoas boas, devem amar seus inimigos",
-            "autoria": "Seu Barriga",
-            "modelo": "modelo2"
-        },
-        {
-            "id": 3,
-            "conteudo": "Independência ou morte",
-            "autoria": "Dom Pedro II",
-            "modelo": "modelo3"
-        }
-    ]
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que voce veio",
+      "autoria": "Zé da manga",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "As pessoas boas, devem amar seus inimigos",
+      "autoria": "Seu Barriga",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Independência ou morte",
+      "autoria": "Dom Pedro II",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Teste de adicionar pensamento",
+      "autoria": "Dev Angular",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "Novo Teste",
+      "autoria": "Eu ",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "Não são pedras, são aerolitos",
+      "autoria": "Chapolin Colorado",
+      "modelo": "modelo1",
+      "id": 6
+    }
+  ]
 }
